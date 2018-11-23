@@ -16,3 +16,5 @@ functions in attached MS Visual Studio project.
 3) Encryption key, which I struggled with much). You are able to read it,
 only if you connect after pressing danfoss hard button.
 It is used by encryption/decryption functions.
+
+https://www.youtube.com/watch?v=RZPkLU8rEGs
