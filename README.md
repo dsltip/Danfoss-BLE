@@ -17,4 +17,6 @@ functions in attached MS Visual Studio project.
 only if you connect after pressing danfoss hard button.
 It is used by encryption/decryption functions.
 
+I've marked characteristics which I used (see Excel sheet). 
+
 https://www.youtube.com/watch?v=RZPkLU8rEGs
